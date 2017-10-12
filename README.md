@@ -1,4 +1,3 @@
-# Versos do Mundo
 
 Versos do Mundo é um livro de poesias escrito pelos amigos Eduan Lenine e Jota Teles. 
 Os versos e poemas que compõe o livro vem sendo escritos desde 2009. 
